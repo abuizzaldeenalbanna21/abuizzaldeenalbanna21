@@ -8,25 +8,22 @@ I enjoy developing clean and maintainable interfaces using React.js and JavaScri
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-*Frontend Development*
-- React.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
+</p>
 
-*Backend & Databases*
-- Python
-- MySQL
-- SQL Server
+### Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,cs" />
+</p>
 
-*Tools*
-- Git & GitHub
-- Visual Studio Code
-- Visual Studio
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 ---
 
