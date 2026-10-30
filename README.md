@@ -1,4 +1,4 @@
-# Hi, I'm Ali Nabeel Al-Banna 👋
+# Hi, I'm Ali Nabeel Al-Banna
 
 ### Software Engineer | React.js Developer | Front-End Developer
 
